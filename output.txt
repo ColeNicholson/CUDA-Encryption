@@ -1,0 +1,11 @@
+mp1_Nicholson-RubidouxCole.cu
+   Creating library H:/Documents/School/Computer Science/CS425 - Parallel Computing/Homework 4/mp1.lib and object H:/Documents/School/Computer Science/CS425 - Parallel Computing/Homework 4/mp1.exp
+Encrypting 100000-element array
+
+Original data: 19169 15724 ... 3120
+
+Encrypted data: 1261765137 1795847498 ... 348103613
+
+Decrypted data: 19169 15724 ... 3120
+
+ encrypted data from device 1261765137 1795847498 ... 348103613 

@@ -1,0 +1,7 @@
+.idea/
+.vs/
+cmake-build-cuda/
+cmake-build-debug/
+out/
+*.exp
+*.lib
